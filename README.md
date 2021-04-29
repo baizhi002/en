@@ -7,7 +7,7 @@
 
 [alinktoanexternalweb site.](https://cn.bing.com/?FORM=Z9FD1)
 
-[a link between markdown pages.](../2.md)
+[a link between markdown pages.](/2.md)
 
 ![an image that is a file in the directory.](/OIP.jpg)
 
