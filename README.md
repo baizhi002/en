@@ -9,7 +9,7 @@
 
 [a link between markdown pages.](https://cn.bing.com/?FORM=Z9FD1)
 
-![an image that is a file in the directory.]()
+![an image that is a file in the directory.](/OIP.jfif)
 
 ![an image that is located on the web (not a file inthedirectory). ](https://tse2-mm.cn.bing.net/th/id/OIP.kZPpv2Rb0nMSKSeeNdO_GAHaE8?w=258&h=180&c=7&o=5&dpr=1.25&pid=1.7)
 
